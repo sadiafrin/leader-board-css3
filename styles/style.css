@@ -18,8 +18,8 @@
     top: 26px;
   }
   .idea{
-      display:flex;
-  }
+    display:flex;
+}
   .nav{
       background-color: #562EFF;
       padding:29px;
@@ -35,8 +35,8 @@
       left: 820px;
      
   }
- .nav-img{
-    position: absolute;
+ .nav-img img{
+    position: fixed;
     right: 300px;
     top: 29px;
   }  
