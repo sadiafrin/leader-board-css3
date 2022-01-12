@@ -166,7 +166,7 @@ hr{
               grid-template-columns: repeat(1, 1fr);
           }
       }
-      .player, .blog, .courses{
+      .player, .blog, .courses, .nav{
           flex-direction: column;
       }
 
