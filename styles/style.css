@@ -2,6 +2,48 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Luxurious+Roman&family=Moon+Dance&family=Poppins:ital,wght@0,400;0,500;1,500&family=Roboto+Slab&family=The+Nautigal:wght@400;700&display=swap');
 
 /* common styles or utilities*/
+ /*------- 
+    nav
+  ------*/
+  .idea img{
+    
+  }
+  .idea h3{
+      margin-left: 10px;
+      color:#FFFFFF;
+  }
+  .idea{
+    position: absolute;
+    width: 41px;
+    height: 51px;
+    left: 285px;
+    top: 26px;
+  }
+  .idea{
+      display:flex;
+  }
+  .nav{
+      background-color: #562EFF;
+      padding:29px;
+      margin-bottom: 52px;
+        
+  }
+  nav a{
+      text-decoration: none;
+      font-size: 16px;
+      margin-right:35px;
+      color:#FFFFFF; 
+      position: relative;
+      left: 820px;
+      align-items: 
+  }
+ .nav-img{
+    position: absolute;
+    right: 300px;
+    top: 29px;
+  }  
+         
+
 body{
     font-family: 'Poppins', sans-serif;
     background: #F3F1FF;
@@ -50,6 +92,7 @@ hr{
     margin-left: 16px;
     font-size: 18px;
 }
+
     /* -----------------------
         top blog styles
     ---------------------- */
