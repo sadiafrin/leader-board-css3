@@ -5,9 +5,7 @@
  /*------- 
     nav
   ------*/
-  .idea img{
-    
-  }
+
   .idea h3{
       margin-left: 10px;
       color:#FFFFFF;
@@ -35,7 +33,7 @@
       color:#FFFFFF; 
       position: relative;
       left: 820px;
-      align-items: 
+     
   }
  .nav-img{
     position: absolute;
@@ -181,8 +179,8 @@ hr{
        }
     .players, .courses{
         grid-template-columns: repeat(2, 1fr);
-           /* background-color: brown; */
+           
        }
-   }
+    }
        
        
