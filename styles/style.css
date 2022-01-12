@@ -36,7 +36,7 @@
      
   }
  .nav .nav-img img{
-    position: fixed;
+    position:absolute;
     right: 300px;
     top: 29px;
   }  
